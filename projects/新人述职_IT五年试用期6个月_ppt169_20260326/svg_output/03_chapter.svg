@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <g>
+    <rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+    <rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+    <line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5"/>
+    <line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+    <line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+    <text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
+  </g>
+  <g>
+    <text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">一、</text>
+    <text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">个人背景与岗位定位</text>
+    <text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">个人背景与岗位认知</text>
+  </g>
+  <g>
+    <rect x="40" y="102" width="1200" height="52" rx="6" fill="#F6FBE8" stroke="#92D050" stroke-width="1.2"/>
+    <rect x="40" y="102" width="6" height="52" rx="3" fill="#88C100"/>
+    <text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
+    <text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">具备成熟研发经验，入职后快速切入会员、营销活动与运营平台相关业务。</text>
+  </g>
+  <g>
+    <rect x="40" y="176" width="1200" height="430" rx="8" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.5"/>
+    <rect x="58" y="194" width="356" height="178" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="58" y="194" width="356" height="8" rx="4" fill="#88C100"/><text x="78" y="228" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="78" dy="0">基础信息</tspan></text><text x="78" y="266" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="78" dy="0">华南农业大学 软件工程</tspan><tspan x="78" dy="28">2016 - 2020</tspan><tspan x="78" dy="28">后端开发工程师</tspan><tspan x="78" dy="28">2025-10-20 入职</tspan></text><rect x="434" y="194" width="370" height="178" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="434" y="194" width="370" height="8" rx="4" fill="#88C100"/><text x="454" y="228" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="454" dy="0">职业经历</tspan></text><text x="454" y="266" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="454" dy="0">2019 - 2025 深圳乐信控股有限公司</tspan><tspan x="454" dy="28">累计 5 年 IT 行业研发经验</tspan><tspan x="454" dy="28">长期从事会员、活动、运营平台相关研发</tspan></text><rect x="824" y="194" width="378" height="178" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="824" y="194" width="378" height="8" rx="4" fill="#88C100"/><text x="844" y="228" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="844" dy="0">岗位定位</tspan></text><text x="844" y="266" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="844" dy="0">当前负责会员、营销活动、运营平台</tspan><tspan x="844" dy="28">快速承接复杂需求并推进方案落地</tspan><tspan x="844" dy="28">兼顾交付效率、系统质量和复用沉淀</tspan></text><rect x="58" y="392" width="1144" height="146" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><text x="84" y="426" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="84" dy="0">核心能力标签</tspan></text><rect x="84" y="448" width="200" height="42" rx="21" fill="#FFFFFF" stroke="#CFE1A8" stroke-width="1"/><text x="128" y="474" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#333F50"><tspan x="128" dy="0">复杂需求拆解</tspan></text><rect x="304" y="448" width="200" height="42" rx="21" fill="#FFFFFF" stroke="#CFE1A8" stroke-width="1"/><text x="354" y="474" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#333F50"><tspan x="354" dy="0">项目统筹推进</tspan></text><rect x="524" y="448" width="200" height="42" rx="21" fill="#FFFFFF" stroke="#CFE1A8" stroke-width="1"/><text x="574" y="474" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#333F50"><tspan x="574" dy="0">平台化设计</tspan></text><rect x="744" y="448" width="200" height="42" rx="21" fill="#FFFFFF" stroke="#CFE1A8" stroke-width="1"/><text x="794" y="474" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#333F50"><tspan x="794" dy="0">AI 协同研发</tspan></text><rect x="964" y="448" width="200" height="42" rx="21" fill="#FFFFFF" stroke="#CFE1A8" stroke-width="1"/><text x="1002" y="474" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#333F50"><tspan x="1002" dy="0">复用机制沉淀</tspan></text><rect x="56" y="556" width="1168" height="34" rx="8" fill="#F6FBE8" stroke="#CFE1A8" stroke-width="1"/><rect x="56" y="556" width="6" height="34" rx="3" fill="#88C100"/><text x="76" y="579" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#4F5B66"><tspan x="76" dy="0">具备成熟研发经验，试用期内完成从业务融入到独立承担复杂事项的快速切换。</tspan></text>
+  </g>
+  <g>
+    <rect x="0" y="640" width="1280" height="80" fill="#FAFBFC"/>
+    <line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1"/>
+    <text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: personal_material.md + content_requirement.md</text>
+    <text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">模板化生成内容页</text>
+    <rect x="1140" y="654" width="82" height="30" rx="4" fill="#88C100"/>
+    <text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">03</text>
+  </g>
+</svg>

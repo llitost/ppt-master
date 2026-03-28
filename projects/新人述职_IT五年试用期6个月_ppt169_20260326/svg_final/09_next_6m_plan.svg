@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#FFFFFF" />
+  <g>
+    <rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5" />
+    <rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5" />
+    <line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5" />
+    <line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5" />
+    <line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5" />
+    <text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
+  </g>
+  <g>
+    <text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">七、</text>
+    <text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">个人贡献与方法沉淀</text>
+    <text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">个人贡献</text>
+  </g>
+  <g>
+    <path fill="#F6FBE8" stroke="#92D050" stroke-width="1.2" d="M46,102 H1234 A6,6 0 0 1 1240,108 V148 A6,6 0 0 1 1234,154 H46 A6,6 0 0 1 40,148 V108 A6,6 0 0 1 46,102 Z" />
+    <path fill="#88C100" d="M43,102 H43 A3,3 0 0 1 46,105 V151 A3,3 0 0 1 43,154 H43 A3,3 0 0 1 40,151 V105 A3,3 0 0 1 43,102 Z" />
+    <text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
+    <text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">在项目交付之外，主动补位团队机制与知识沉淀。</text>
+  </g>
+  <g>
+    <path fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.5" d="M48,176 H1232 A8,8 0 0 1 1240,184 V598 A8,8 0 0 1 1232,606 H48 A8,8 0 0 1 40,598 V184 A8,8 0 0 1 48,176 Z" />
+    <path fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4" d="M68,208 H318 A10,10 0 0 1 328,218 V442 A10,10 0 0 1 318,452 H68 A10,10 0 0 1 58,442 V218 A10,10 0 0 1 68,208 Z" /><path fill="#88C100" d="M62,208 H324 A4,4 0 0 1 328,212 V212 A4,4 0 0 1 324,216 H62 A4,4 0 0 1 58,212 V212 A4,4 0 0 1 62,208 Z" /><text font-weight="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#6B8E00" x="78" y="242">新人指引</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="78" y="280">编写《后端研发新人指引》</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="78" y="308">帮助新同学更快理解环境、流程和协作方式</text><path fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4" d="M356,208 H606 A10,10 0 0 1 616,218 V442 A10,10 0 0 1 606,452 H356 A10,10 0 0 1 346,442 V218 A10,10 0 0 1 356,208 Z" /><path fill="#88C100" d="M350,208 H612 A4,4 0 0 1 616,212 V212 A4,4 0 0 1 612,216 H350 A4,4 0 0 1 346,212 V212 A4,4 0 0 1 350,208 Z" /><text font-weight="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#6B8E00" x="366" y="242">工程 SOP</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="366" y="280">梳理新增工程应用 SOP</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="366" y="308">梳理上线应用 SOP</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="366" y="336">降低重复沟通成本</text><path fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4" d="M644,208 H894 A10,10 0 0 1 904,218 V442 A10,10 0 0 1 894,452 H644 A10,10 0 0 1 634,442 V218 A10,10 0 0 1 644,208 Z" /><path fill="#88C100" d="M638,208 H900 A4,4 0 0 1 904,212 V212 A4,4 0 0 1 900,216 H638 A4,4 0 0 1 634,212 V212 A4,4 0 0 1 638,208 Z" /><text font-weight="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#6B8E00" x="654" y="242">AI 协同研发</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="654" y="280">在需求分析、文档整理、代码辅助中实践 AI 方法</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="654" y="308">提升信息组织和研发效率</text><path fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4" d="M932,208 H1192 A10,10 0 0 1 1202,218 V442 A10,10 0 0 1 1192,452 H932 A10,10 0 0 1 922,442 V218 A10,10 0 0 1 932,208 Z" /><path fill="#88C100" d="M926,208 H1198 A4,4 0 0 1 1202,212 V212 A4,4 0 0 1 1198,216 H926 A4,4 0 0 1 922,212 V212 A4,4 0 0 1 926,208 Z" /><text font-weight="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#6B8E00" x="942" y="242">团队价值</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="942" y="280">将个人经验转化为团队可复用资产</text><text font-weight="400" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#333F50" x="942" y="308">降低 onboarding 和跨人交接成本</text><path fill="#F6FBE8" stroke="#CFE1A8" stroke-width="1" d="M64,556 H1216 A8,8 0 0 1 1224,564 V582 A8,8 0 0 1 1216,590 H64 A8,8 0 0 1 56,582 V564 A8,8 0 0 1 64,556 Z" /><path fill="#88C100" d="M59,556 H59 A3,3 0 0 1 62,559 V587 A3,3 0 0 1 59,590 H59 A3,3 0 0 1 56,587 V559 A3,3 0 0 1 59,556 Z" /><text font-weight="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#4F5B66" x="76" y="579">在项目交付之外，主动补位团队机制与知识沉淀，让经验可复制、可复用。</text></g>
+  <g>
+    <rect x="0" y="640" width="1280" height="80" fill="#FAFBFC" />
+    <line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1" />
+    <text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: slide_copy_compact.md</text>
+    <text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">方法沉淀页按四卡片布局生成</text>
+    <path fill="#88C100" d="M1144,654 H1218 A4,4 0 0 1 1222,658 V680 A4,4 0 0 1 1218,684 H1144 A4,4 0 0 1 1140,680 V658 A4,4 0 0 1 1144,654 Z" />
+    <text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">09</text>
+  </g>
+</svg>

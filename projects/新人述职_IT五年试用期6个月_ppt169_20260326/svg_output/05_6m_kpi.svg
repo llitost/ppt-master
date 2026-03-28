@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <g>
+    <rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+    <rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+    <line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5"/>
+    <line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+    <line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+    <text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
+  </g>
+  <g>
+    <text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">三、</text>
+    <text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">6个月整体产出与量化结果</text>
+    <text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">个人绩效</text>
+  </g>
+  <g>
+    <rect x="40" y="102" width="1200" height="52" rx="6" fill="#F6FBE8" stroke="#92D050" stroke-width="1.2"/>
+    <rect x="40" y="102" width="6" height="52" rx="3" fill="#88C100"/>
+    <text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
+    <text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">工作覆盖交付、优化、系统建设和复用沉淀四个层面。</text>
+  </g>
+  <g>
+    <rect x="40" y="176" width="1200" height="430" rx="8" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.5"/>
+    <rect x="58" y="198" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="74" y="214" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="138" y="236" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="138" dy="0">试用期交付</tspan></text><text x="82" y="290" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="82" dy="0">累计 8 个需求</tspan></text><rect x="362" y="198" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="378" y="214" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="442" y="236" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="442" dy="0">独立负责</tspan></text><text x="386" y="290" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="386" dy="0">8 个项目 / 事项</tspan></text><rect x="666" y="198" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="682" y="214" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="746" y="236" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="746" dy="0">按期交付率</tspan></text><text x="690" y="290" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="690" dy="0">100%</tspan></text><rect x="970" y="198" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="986" y="214" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="1050" y="236" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="1050" dy="0">查询优化</tspan></text><text x="994" y="290" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="994" dy="0">8s → 500ms</tspan></text><rect x="58" y="344" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="74" y="360" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="138" y="382" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="138" dy="0">节日活动首期</tspan></text><text x="82" y="436" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="82" dy="0">19 个工作日上线</tspan></text><rect x="362" y="344" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="378" y="360" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="442" y="382" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="442" dy="0">积分提醒覆盖</tspan></text><text x="386" y="436" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="386" dy="0">40w+ 用户</tspan></text><rect x="666" y="344" width="272" height="118" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><rect x="682" y="360" width="48" height="48" rx="8" fill="#88C100" fill-opacity="0.14"/><text x="746" y="382" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#5D6D7E"><tspan x="746" dy="0">转盘配置化</tspan></text><text x="690" y="436" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="700" fill="#333F50"><tspan x="690" dy="0">1 天 → 2h</tspan></text><rect x="970" y="344" width="232" height="118" rx="12" fill="#88C100" fill-opacity="0.08" stroke="#CFE1A8" stroke-width="1.2"/><text x="992" y="378" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="992" dy="0">结果覆盖面</tspan></text><text x="992" y="416" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="700" fill="#333F50"><tspan x="992" dy="0">交付</tspan><tspan x="992" dy="28">效率</tspan><tspan x="992" dy="28">影响</tspan><tspan x="992" dy="28">复用沉淀</tspan></text><rect x="56" y="556" width="1168" height="34" rx="8" fill="#F6FBE8" stroke="#CFE1A8" stroke-width="1"/><rect x="56" y="556" width="6" height="34" rx="3" fill="#88C100"/><text x="76" y="579" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#4F5B66"><tspan x="76" dy="0">结果同时覆盖交付、效率、影响和复用价值，整体履职结果达到预期。</tspan></text>
+  </g>
+  <g>
+    <rect x="0" y="640" width="1280" height="80" fill="#FAFBFC"/>
+    <line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1"/>
+    <text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: slide_copy_compact.md</text>
+    <text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">指标页按模板卡片规范生成</text>
+    <rect x="1140" y="654" width="82" height="30" rx="4" fill="#88C100"/>
+    <text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">05</text>
+  </g>
+</svg>

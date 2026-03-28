@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+	<rect width="1280" height="720" fill="#FFFFFF"/>
+
+	<g>
+		<rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+		<rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+		<line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5"/>
+		<line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+		<line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+		<text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
+	</g>
+
+	<g>
+		<text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">一、</text>
+		<text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">{{PAGE_TITLE}}</text>
+		<text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">{{SECTION_NAME}}</text>
+	</g>
+
+	<g>
+		<rect x="40" y="102" width="1200" height="52" rx="6" fill="#F6FBE8" stroke="#92D050" stroke-width="1.2"/>
+		<rect x="40" y="102" width="6" height="52" rx="3" fill="#88C100"/>
+		<text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
+		<text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">{{KEY_MESSAGE}}</text>
+	</g>
+
+	<g>
+		<rect x="40" y="176" width="1200" height="430" rx="8" fill="none" stroke="#D8E7B4" stroke-width="1.5" stroke-dasharray="10 7"/>
+		<text x="640" y="390" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="400" fill="#AAB7B8">{{CONTENT_AREA}}</text>
+		<text x="640" y="424" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="400" fill="#C7CFD1">Content Area: 1200 × 430 px</text>
+	</g>
+
+	<g>
+		<rect x="0" y="640" width="1280" height="80" fill="#FAFBFC"/>
+		<line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1"/>
+		<text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: {{SOURCE}}</text>
+		<text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">{{NOTE}}</text>
+		<rect x="1140" y="654" width="82" height="30" rx="4" fill="#88C100"/>
+		<text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">{{PAGE_NUM}}</text>
+	</g>
+</svg>
