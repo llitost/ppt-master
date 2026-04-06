@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| Project Name | IT行业新人述职（工作5年，试用期6个月） |
+| Project Name | 方汉涛试用期转正述职（工作6年，试用期6个月） |
 | Canvas Format | PPT 16:9 |
 | Canvas Size | 1280  720 |
 | ViewBox | 0 0 1280 720 |
@@ -12,7 +12,7 @@
 | Style Objective | B) General Consulting |
 | Audience | 直属领导、部门负责人、HR |
 | Scenario | 试用期转正述职 / 阶段性汇报 |
-| Date | 2026-03-26 |
+| Date | 2026-04-04 |
 
 ## II. Canvas Specification
 
@@ -65,6 +65,9 @@
 - Content pages adopt: profile timeline, KPI cards, case-study pages, comparison cards, roadmap
 - Keep one core takeaway per page and present evidence directly under the conclusion
 - Use consistent footer source and page numbering
+- Prefer diagrams, charts, icons, and structural visuals over paragraph blocks
+- Keep slides visual-first: avoid text walls and ensure each content page has a dominant visual unit
+- Prefer 3-5 evidence points per page and keep each point within 2 lines
 
 ## VI. Icon Usage Specification
 
@@ -96,16 +99,19 @@
 
 | Filename | Dimensions | Ratio | Layout Suggestion | Purpose | Type | Status | Generation Description |
 |---|---|---|---|---|---|---|---|
-| N/A | N/A | N/A | N/A | This deck is data-first, no image needed | N/A | Not required | N/A |
+| cover_abstract_bg.png | 1600x900 | 16:9 | 01_cover background | Strengthen opening atmosphere without adding text load | Abstract illustration | Pending generation | Light consulting-style blue geometric background with clean white space and subtle gradient |
+| role_growth_path.png | 1600x900 | 16:9 | 03_chapter side visual or background support | Support growth-path narrative on the personal background page | Concept illustration | Pending generation | Minimal career growth path illustration with timeline cues, professional consulting style, blue-white palette |
+| project_collaboration_map.png | 1600x900 | 16:9 | 06_project_cases auxiliary visual | Visualize multi-role coordination and phased project delivery | Concept illustration | Pending generation | Clean project collaboration diagram style illustration showing multi-phase delivery, team coordination, consulting aesthetic |
+| platform_upgrade_visual.png | 1600x900 | 16:9 | 08_improvement_actions or 11_value_summary | Reinforce platformization and reusable capability narrative | Concept illustration | Pending generation | Abstract platform upgrade illustration with modules, arrows, and efficiency symbolism, flat consulting style |
 
 ## IX. Content Outline
 
 ### 01_cover
 - Title: 试用期转正述职报告
-- Subtitle: 后端研发工程师 | 5年行业经验 | 入职6个月工作总结
+- Subtitle: 后端研发工程师 | 6年行业经验 | 入职6个月工作总结
 - Core message: 在试用期内完成从快速融入到独立承担、从需求交付到系统沉淀的阶段性转变
 - Layout: 大标题封面 + 右下角信息块
-- Key modules: 主标题、副标题、核心结论条、姓名岗位入职时间汇报日期
+- Key modules: 主标题、副标题、核心结论条、方汉涛/岗位/入职时间/汇报日期
 
 ### 02_toc
 - 目录：个人背景与岗位认知、整体产出与关键案例、个人沉淀与不足、未来计划与转正申请
@@ -114,8 +120,8 @@
 
 ### 03_chapter
 - 个人基本情况：工作背景、岗位定位、当前职责与角色承担
-- Layout: 左时间轴 + 右标签卡片
-- Key modules: 个人经历时间轴、当前岗位说明、业务方向、能力标签
+- Layout: 横向上升式时间轴 + 节点说明块
+- Key modules: 4个时间节点、经历与角色变化说明、当前岗位说明、业务方向、能力标签
 
 ### 04_role_transition
 - 岗位认知与试用期目标：独立承接需求、承担复杂项目、沉淀可复用机制
@@ -123,14 +129,14 @@
 - Key modules: 岗位理解、3个试用期目标卡片、阶段结论
 
 ### 05_6m_kpi
-- 6个月整体产出：活动、会员、基础系统、平台重构等多类工作全景，以及核心量化成果
+- 6个月整体产出：覆盖10项重点事项，其中8项完成交付，2项形成方案沉淀或交接，并给出核心量化成果
 - Layout: KPI卡片 + 底部证据说明
-- Key modules: 4张KPI卡片、核心数字、结果说明条
+- Key modules: 4张KPI卡片、核心数字、业务结果摘要、结果说明条
 
 ### 06_project_cases
-- 关键案例一：圣诞与新年活动高压交付，突出项目统筹、核心研发与分期落地能力
+- 关键案例一：圣诞与新年活动高压交付，突出项目统筹、核心研发、业务结果与风险兜底能力
 - Layout: 左时间轴 + 右项目说明
-- Key modules: 四期项目时间轴、项目背景、个人职责、项目难点、项目结果
+- Key modules: 四期项目时间轴、项目背景、个人职责、项目难点、项目结果、拉新/参与数据
 
 ### 07_problem_analysis
 - 关键案例二：规则引擎从0到1独立建设，突出方案设计、原型文档和系统实现闭环
@@ -138,14 +144,14 @@
 - Key modules: 原型设计、需求文档、系统设计、后端实现、测试执行、价值总结
 
 ### 08_improvement_actions
-- 关键案例三：性能优化、签到重构、转盘配置化，突出平台化建设与复用价值
+- 关键案例三：性能优化、签到重构、转盘配置化，突出平台化建设、效率提升与复用价值
 - Layout: 三栏案例对比页
-- Key modules: CRM查询优化、签到重构、转盘配置化、每栏前后对比结果
+- Key modules: CRM查询优化、签到重构、转盘配置化、每栏前后对比结果、关键数字
 
 ### 09_next_6m_plan
 - 个人贡献与方法沉淀：新人指引、上线SOP、AI协同研发实践等团队资产
 - Layout: 左侧成果列表 + 右侧价值映射
-- Key modules: 做了什么、解决了什么问题、成果到价值的映射关系
+- Key modules: 做了什么、解决了什么问题、成果到价值的映射关系、团队收益说明
 
 ### 10_risk_support
 - 不足与提升计划：结果量化、业务纵深、团队级AI规范沉淀三方面改进方向
@@ -153,9 +159,9 @@
 - Key modules: 不足项、影响说明、改进行动
 
 ### 11_value_summary
-- 未来计划、建议与求助：AI研发提效、项目级context、营销活动平台建设与组织支持事项
+- 未来计划、建议与求助：AI研发提效、项目级context、营销活动平台Q2建设与组织支持事项
 - Layout: 上时间轴 + 下支持事项双栏
-- Key modules: 未来6个月里程碑、建议事项、求助事项、转正申请结论
+- Key modules: 未来6个月里程碑、建议事项、求助事项、阶段目标、转正申请结论
 
 ### 12_ending
 - 总结、转正申请与现场答疑

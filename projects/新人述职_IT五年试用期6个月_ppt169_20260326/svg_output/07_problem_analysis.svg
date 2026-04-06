@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
-  <rect width="1280" height="720" fill="#FFFFFF"/>
-  <g>
-    <rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
-    <rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
-    <line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5"/>
-    <line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
-    <line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
-    <text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
-  </g>
-  <g>
-    <text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">五、</text>
-    <text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">关键案例二｜规则引擎从0到1独立建设</text>
-    <text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">关键问题突破举例</text>
-  </g>
-  <g>
-    <rect x="40" y="102" width="1200" height="52" rx="6" fill="#F6FBE8" stroke="#92D050" stroke-width="1.2"/>
-    <rect x="40" y="102" width="6" height="52" rx="3" fill="#88C100"/>
-    <text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
-    <text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">从原型、文档到系统实现形成完整闭环，证明独立建设复杂系统的能力。</text>
-  </g>
-  <g>
-    <rect x="40" y="176" width="1200" height="430" rx="8" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.5"/>
-    <rect x="58" y="198" width="1144" height="120" rx="12" fill="#F8FBEF" stroke="#CFE1A8" stroke-width="1.2"/><text x="86" y="238" font-family="Microsoft YaHei, Arial, sans-serif" font-size="26" font-weight="700" fill="#333F50"><tspan x="86" dy="0">从原型、文档到系统实现形成完整闭环，证明独立建设复杂系统的能力。</tspan></text><text x="86" y="278" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="400" fill="#5D6D7E"><tspan x="86" dy="0">系统能力覆盖：调用集、规则链、规则测试执行、多环境管理。</tspan></text><rect x="58" y="340" width="254" height="172" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="58" y="340" width="254" height="8" rx="4" fill="#88C100"/><text x="78" y="374" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="78" dy="0">01 原型</tspan></text><text x="78" y="412" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="78" dy="0">自绘原型交互</tspan><tspan x="78" dy="28">在方案阶段提前明确功能边界</tspan></text><rect x="340" y="340" width="254" height="172" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="340" y="340" width="254" height="8" rx="4" fill="#88C100"/><text x="360" y="374" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="360" dy="0">02 文档</tspan></text><text x="360" y="412" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="360" dy="0">自编管理台需求文档</tspan><tspan x="360" dy="28">降低协作理解偏差</tspan></text><rect x="622" y="340" width="254" height="172" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="622" y="340" width="254" height="8" rx="4" fill="#88C100"/><text x="642" y="374" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="642" dy="0">03 实现</tspan></text><text x="642" y="412" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="642" dy="0">独立实现规则引擎系统</tspan><tspan x="642" dy="28">完成管理台与执行能力建设</tspan></text><rect x="904" y="340" width="298" height="172" rx="10" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.4"/><rect x="904" y="340" width="298" height="8" rx="4" fill="#88C100"/><text x="924" y="374" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="700" fill="#6B8E00"><tspan x="924" dy="0">04 价值</tspan></text><text x="924" y="412" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#333F50"><tspan x="924" dy="0">从承接需求升级为定义方案并独立落地</tspan><tspan x="924" dy="28">形成更强的抽象设计与 ownership 能力</tspan></text><rect x="56" y="556" width="1168" height="34" rx="8" fill="#F6FBE8" stroke="#CFE1A8" stroke-width="1"/><rect x="56" y="556" width="6" height="34" rx="3" fill="#88C100"/><text x="76" y="579" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#4F5B66"><tspan x="76" dy="0">从需求接收升级为问题定义、方案设计和独立交付，完成从 0 到 1 的复杂系统建设。</tspan></text>
-  </g>
-  <g>
-    <rect x="0" y="640" width="1280" height="80" fill="#FAFBFC"/>
-    <line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1"/>
-    <text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: slide_copy_compact.md</text>
-    <text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">案例页采用里程碑卡片结构</text>
-    <rect x="1140" y="654" width="82" height="30" rx="4" fill="#88C100"/>
-    <text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">07</text>
-  </g>
+	<rect width="1280" height="720" fill="#FFFFFF"/>
+
+	<g>
+		<rect x="34" y="28" width="44" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+		<rect x="86" y="28" width="8" height="35" fill="#92D050" stroke="#85BB05" stroke-width="1.5"/>
+		<line x1="28" y1="76" x2="710" y2="76" stroke="#92D050" stroke-width="3.5"/>
+		<line x1="728" y1="76" x2="761" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+		<line x1="778" y1="76" x2="812" y2="76" stroke="#7F7F7F" stroke-width="3.5"/>
+		<text x="1114" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700" fill="#88C100">RECRUIT</text>
+	</g>
+
+	<g>
+		<text x="105" y="67" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="400" fill="#333F50">五、</text>
+		<text x="162" y="68" font-family="Microsoft YaHei, Arial, sans-serif" font-size="37" font-weight="700" fill="#333F50">关键案例二｜规则引擎从0到1独立建设</text>
+		<text x="1180" y="67" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="400" fill="#7F7F7F">02 RESULTS</text>
+	</g>
+
+	<g>
+		<rect x="40" y="102" width="1200" height="52" rx="6" fill="#F6FBE8" stroke="#92D050" stroke-width="1.2"/>
+		<rect x="40" y="102" width="6" height="52" rx="3" fill="#88C100"/>
+		<text x="62" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="700" fill="#6B8E00">KEY MESSAGE</text>
+		<text x="186" y="133" font-family="Microsoft YaHei, Arial, sans-serif" font-size="15" font-weight="400" fill="#5D6D7E">从原型、文档到系统实现形成完整闭环，证明独立建设复杂系统的能力。</text>
+	</g>
+
+	<g>
+		<rect x="40" y="176" width="1200" height="430" rx="8" fill="none" stroke="#D8E7B4" stroke-width="1.5" stroke-dasharray="10 7"/>
+		<rect x="58" y="196" width="1164" height="112" rx="16" fill="#F6FBE8"/><text x="88" y="238" font-family="Microsoft YaHei, Arial, sans-serif" font-size="26" font-weight="700" fill="#6B8E00"><tspan x="88" dy="0">从原型、文档到系统实现形成完整闭环，证明独立建设复杂系统的能力。</tspan></text><text x="88" y="282" text-anchor="start" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="400" fill="#5D6D7E">系统支持调用集、规则链、规则测试执行和多环境管理。</text><rect x="58" y="344" width="250" height="186" rx="14" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.2"/><rect x="58" y="344" width="250" height="8" rx="4" fill="#6B8E00"/><text x="78" y="382" text-anchor="start" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#6B8E00">01</text><text x="78" y="416" font-family="Microsoft YaHei, Arial, sans-serif" font-size="21" font-weight="700" fill="#2C3E50"><tspan x="78" dy="0">原型设计</tspan></text><text x="78" y="456" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#5D6D7E"><tspan x="78" dy="0">自绘原型交互</tspan><tspan x="78" dy="26">在方案阶段提前定义边界与流程</tspan></text><rect x="332" y="344" width="250" height="186" rx="14" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.2"/><rect x="332" y="344" width="250" height="8" rx="4" fill="#88C100"/><text x="352" y="382" text-anchor="start" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#88C100">02</text><text x="352" y="416" font-family="Microsoft YaHei, Arial, sans-serif" font-size="21" font-weight="700" fill="#2C3E50"><tspan x="352" dy="0">需求文档</tspan></text><text x="352" y="456" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#5D6D7E"><tspan x="352" dy="0">自编管理台需求文档</tspan><tspan x="352" dy="26">降低后续协作理解偏差</tspan></text><rect x="606" y="344" width="250" height="186" rx="14" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.2"/><rect x="606" y="344" width="250" height="8" rx="4" fill="#4D7E2E"/><text x="626" y="382" text-anchor="start" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#4D7E2E">03</text><text x="626" y="416" font-family="Microsoft YaHei, Arial, sans-serif" font-size="21" font-weight="700" fill="#2C3E50"><tspan x="626" dy="0">系统实现</tspan></text><text x="626" y="456" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#5D6D7E"><tspan x="626" dy="0">独立实现规则引擎系统</tspan><tspan x="626" dy="26">完成管理台和执行能力建设</tspan></text><rect x="880" y="344" width="342" height="186" rx="14" fill="#FFFFFF" stroke="#D8E7B4" stroke-width="1.2"/><rect x="880" y="344" width="342" height="8" rx="4" fill="#B9D99E"/><text x="900" y="382" text-anchor="start" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#B9D99E">04</text><text x="900" y="416" font-family="Microsoft YaHei, Arial, sans-serif" font-size="21" font-weight="700" fill="#2C3E50"><tspan x="900" dy="0">价值结论</tspan></text><text x="900" y="456" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="400" fill="#5D6D7E"><tspan x="900" dy="0">从需求承接升级为方案定义与独立交付</tspan><tspan x="900" dy="26">体现更强的抽象设计和 ownership 能力</tspan></text>
+		<text x="640" y="424" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="400" fill="#C7CFD1">Content Area: 1200 × 430 px</text>
+	</g>
+
+	<g>
+		<rect x="0" y="640" width="1280" height="80" fill="#FAFBFC"/>
+		<line x1="0" y1="640" x2="1280" y2="640" stroke="#E5E7EB" stroke-width="1"/>
+		<text x="44" y="676" font-family="Microsoft YaHei, Arial, sans-serif" font-size="12" font-weight="400" fill="#7F8C8D">Source: sources/personal_material.md | sources/content_requirement.md</text>
+		<text x="44" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="400" fill="#B8C0C2">Template: 03_content.svg | layout: system build sequence</text>
+		<rect x="1140" y="654" width="82" height="30" rx="4" fill="#88C100"/>
+		<text x="1181" y="675" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">07</text>
+	</g>
 </svg>
